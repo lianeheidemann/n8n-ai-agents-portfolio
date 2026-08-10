@@ -7,8 +7,6 @@
 
 A collection of projects developed during Hashtag Treinamentos' **AI Agents and n8n Immersion**. Each lesson produces an independent project that is documented and adapted to a distinct scenario.
 
-This repository contains only original implementations, sanitized workflows, project-specific prompts, and technical documentation. Course handouts, answer keys, and proprietary teaching materials are not reproduced.
-
 ## Projects
 
 | Lesson | Project | Technologies | Status |
