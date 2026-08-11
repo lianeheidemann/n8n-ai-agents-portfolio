@@ -3,6 +3,9 @@
 ![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/AI-Agents-6C63FF?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-Local%20Environment-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
 ![Status](https://img.shields.io/badge/Status-In%20Development-F2C94C?style=for-the-badge)
 
 A collection of projects developed during Hashtag Treinamentos' **AI Agents and n8n Immersion**. Each lesson produces an independent project that is documented and adapted to a distinct scenario.
