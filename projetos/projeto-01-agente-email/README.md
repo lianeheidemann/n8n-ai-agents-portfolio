@@ -62,10 +62,3 @@ Consulte o guia técnico em [`../../docs/abrir-projeto-n8n-com-docker.md`](../..
 
 A versão atual responde automaticamente quando a condição do fluxo é atendida. Para uso real, recomenda-se adicionar uma etapa de aprovação humana ou criação de rascunho antes do envio. Também podem ser adicionados tratamento de erros, logs estruturados, testes com diferentes tipos de e-mail e proteção adicional contra respostas indevidas.
 
-## Autoria e contexto acadêmico
-
-A estrutura inicial foi construída acompanhando a Aula 1 da imersão. O cenário de web design, o prompt, as regras de segurança, os limites de autoridade e as adaptações do workflow foram desenvolvidos para este projeto.
-
-Os materiais didáticos do curso não são reproduzidos neste repositório. O acesso controlado aos materiais de apoio está disponível nesta pasta do Google Drive:
-
-<https://drive.google.com/drive/folders/1k5Efky38YB1H9qrVbMEbBb3o1iOBUFVf?usp=drive_link>
